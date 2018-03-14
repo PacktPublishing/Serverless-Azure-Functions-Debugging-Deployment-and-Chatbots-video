@@ -17,14 +17,16 @@ By the end of the course you'll have mastered how Azure Functions can be a great
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Web Services and common challenges.
-Basic knowledge of NodeJs.
-Basic cloud computing with Azure.
+<UL>
+<LI>Web Services and common challenges.
+<LI>Basic knowledge of NodeJs.
+  <LI>Basic cloud computing with Azure.</LI></UL>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Web browser such as Google Chrome or its equivalent
-Visual Studio Code or its equivalent editor
+<UL>
+<LI>Web browser such as Google Chrome or its equivalent
+<LI>Visual Studio Code or its equivalent editor</LI></UL>
 
 ## Related Products
 * [Serverless Azure Functions: Debugging, Deployment and Chatbots [Video]]()
