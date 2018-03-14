@@ -1,2 +1,35 @@
-# Serverless-Azure-Functions-Debugging-Deployment-and-Chatbots-video
-Code repository for Serverless Azure Functions: Debugging, Deployment and Chatbots, published by Packt
+# Serverless Azure Functions: Debugging, Deployment and Chatbots [Video]
+This is the code repository for [Serverless Azure Functions: Debugging, Deployment and Chatbots [Video]](https://www.packtpub.com/virtualization-and-cloud/serverless-azure-functions-debugging-deployment-and-chatbots-video?utm_source=github&utm_medium=repository&utm_campaign=9781788474184), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+## About the Video Course
+Azure Functions provides great solutions for processing data, integrating systems, and building simple APIs to complex micro-services without having to worry about underlying infrastructure for scalability. This volume covers how a serverless application can be designed.
+
+By the end of the course you'll have mastered how Azure Functions can be a great tool to design highly scalable web services. You'll also have created an production-level solution of a chatbot with serverless tools such as CosmosDB and Queues with a good understanding of why they were chosen and how they play an important role in the design of the serverless architecture.
+
+<H2>What You Will Learn</H2>
+<DIV class=book-info-will-learn-text>
+<UL>
+<LI>How to setup the codebase and debug it on local machine. 
+<LI>Continuous Deployment with GitHub and Local Repository. 
+<LI>Best practices for serverless technology and solution to cold-start issue. 
+<LI>Logging and monitoring in real time. 
+<LI>Implementation of a scalable and highly available solution for the chatbot use case </LI></UL></DIV>
+
+## Instructions and Navigation
+### Assumed Knowledge
+To fully benefit from the coverage included in this course, you will need:<br/>
+Web Services and common challenges.
+Basic knowledge of NodeJs.
+Basic cloud computing with Azure.
+
+### Technical Requirements
+This course has the following software requirements:<br/>
+Web browser such as Google Chrome or its equivalent
+Visual Studio Code or its equivalent editor
+
+## Related Products
+* [Serverless Azure Functions: Debugging, Deployment and Chatbots [Video]]()
+
+* [Serverless Azure Functions: Debugging, Deployment and Chatbots [Video]]()
+
+* [Serverless Azure Functions: Debugging, Deployment and Chatbots [Video]]()
+
